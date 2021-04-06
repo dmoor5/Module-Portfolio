@@ -1,7 +1,7 @@
 Here is a list of my top modules and descriptions
 
 1. HTML and CSS:
-
+  (add description and links)
 2. Intro to JS:
 
 3. Advanced JS: Games and Visualization
