@@ -10,7 +10,7 @@ Here is a list of my top modules and descriptions
 
 5. AP Computer Science - Programming:
 
-6. AP Computer Science - Digital Information & ALgorithms:
+6. AP Computer Science - Digital Information & Algorithms:
 
 7. AP Computer Science - Computer Innovation & The Internet :
 
