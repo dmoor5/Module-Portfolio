@@ -18,4 +18,12 @@ Here is a list of my top modules and descriptions
 
 9. FreeCodeCamp.org - ES6 JS:
 
+A course about the transition from ES5 to ES6 and the varius appplications of ES6 into coding. 
+Demonstrates how ES6 is used to create more efficiant code writing and more compact code writing.
+
+Personally, I learned how to use aspects of ES6 such as classes and promisies to create more accurate
+and less buggy programs. I chose this module on FreeCodeCamp because of it's relation to my coding challege. 
+IN particular, the lessons on classes help 'a ton because of their common use in my coding challenge
+originally writen by Dan Shiffman. 
+
 10. Coding Challenge Live Presentation:
