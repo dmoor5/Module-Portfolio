@@ -13,17 +13,49 @@ Visit _[HTML and CSS on Khan Academy](https://www.khanacademy.org/computing/comp
 
  ### Intro to JS:
  
- ### Advanced JS: Games and Visualization
+ Intro to JS teaches the basics to getting into writing Java Script code. The module teaches important parts of JS that can be combined with HTML and CSS to make great things. This includes shape drawing color, functions and most importantly - Object Oriented Programing. 
+ 
+ What I learned from my experiance with Intro to JS helped me with other projects. Object oriented programming particularly helped my with the coding challenge and will continue to help me in the future. 
+ 
+ ![image](https://user-images.githubusercontent.com/36045753/114068899-672fae00-986c-11eb-9723-b919f9bd7e99.png)
 
- ### Advanced JS: Natural Simulations
+Visit _[Intro to JS on Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)_  to view this module.
+
+ ### Advanced JS: Games and Visualization:
+ 
+This module on Advanced Games and Visuizations teaches about interactivity using JS and object oriented programing. The course shows how to use game slides, buttons, mouse clicked and more to create a game that is playable through JS.
+
+What I learned from this was how to code well through functions and objects. Though it was hard at first, I eventually learned how important these were to creating a functioning game. I also improved on using functions to read user input like x/y position of the mouse or mouseClicked. This includes a refactoring of a Khan Academy Game. 
+
+![image](https://user-images.githubusercontent.com/36045753/114076658-e45f2100-9874-11eb-9e1a-b8b58047bd10.png)
+
+Visit _[Games and Visulizations on Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)_  to view this module.
+
+ ### Advanced JS: Natural Simulations:
+ 
+ Natural Simulations continues to expand on what was learned previously. This module goes over noise, random generation, vectors and more. These are all very important when making some simulations like the ones from Dan Shiffman's coding challenges. 
+ 
+ I learned a lot about vectors which was important for me because of their usage in my coding challenege. Also the use of noise has helped me impliment true randomness and random number generators in my code. 
+ 
+![image](https://user-images.githubusercontent.com/36045753/114078439-ede98880-9876-11eb-922e-8ea8e617be2f.png)
+
+Visit _[Natural Simulations on Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)_  to view this module.
 
  ### AP Computer Science - Programming:
 
+Visit _[AP Computer Science on Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles)_  to view this module.
+
  ### AP Computer Science - Digital Information & Algorithms:
+ 
+ Visit _[AP Computer Science on Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles)_  to view this module.
 
  ### AP Computer Science - Computer Innovation & The Internet :
+ 
+ Visit _[AP Computer Science on Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles)_  to view this module.
 
  ### AP Computer Science - Data Analysis & Simulations & Online Data Security:
+ 
+ Visit _[AP Computer Science on Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles)_  to view this module.
 
  ### FreeCodeCamp.org - ES6 JS:
 
