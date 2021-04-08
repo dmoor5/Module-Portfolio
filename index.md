@@ -32,6 +32,6 @@ originally writen by Dan Shiffman.
 ![image](https://user-images.githubusercontent.com/36045753/114060179-1c5d6880-9863-11eb-815d-4dcc50bfefe3.png)
 ![image](https://user-images.githubusercontent.com/36045753/114060250-31d29280-9863-11eb-9ec3-81180a1d91b7.png)
 
-Visit: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming  to view these modules 
+Visit: [FreeCodeCamp JS](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)  to view these modules 
 
 10. ### Coding Challenge Live Presentation:
