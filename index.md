@@ -45,4 +45,5 @@ Visit _[FreeCodeCamp JS](https://www.freecodecamp.org/learn/javascript-algorithm
 ![image](https://user-images.githubusercontent.com/36045753/114063522-b4a91c80-9866-11eb-936b-66259a91a22b.png)
 
 Visit _[p5.js](https://editor.p5js.org/dmoor5/full/sRP1lhlTR)_  to view our game.
+
 Visit our Github _[repository](https://github.com/saugatttt/Snake-Game/tree/dylan)_ to view our code and different refactorings. 
