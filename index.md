@@ -1,9 +1,18 @@
 Here is a list of my top modules and descriptions
 
  ### HTML and CSS:
+ 
+ A module focused on the basics of HTML and CSS in web page development. The course teaches how to setup the content (HTML) and the style/looks of a website (CSS).
+ 
+ In this module I learned how I can personalize my work and produce it in a way that has high functionality and also is enjoyable to look at for the viewer. I learned how to input links and create image size to make a website appealing to the viewers. Also the importance of headers and lists to organize web pages. Finally, I learned how id's and classes can be used to create more organized code and make it easier to repeat the same CSS styles.
+ 
+![image](https://user-images.githubusercontent.com/36045753/114066200-76f9c300-9869-11eb-8728-9e99ef14cb49.png)
+![image](https://user-images.githubusercontent.com/36045753/114066412-b88a6e00-9869-11eb-8eae-e36ceb23d674.png)
+
+Visit _[HTML and CSS on Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)_  to view this module.
 
  ### Intro to JS:
-
+ 
  ### Advanced JS: Games and Visualization
 
  ### Advanced JS: Natural Simulations
