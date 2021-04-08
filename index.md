@@ -2,21 +2,21 @@ Here is a list of my top modules and descriptions
 
 1. ### HTML and CSS:
   (add description and links)
-2. Intro to JS:
+2. ### Intro to JS:
 
-3. Advanced JS: Games and Visualization
+3. ### Advanced JS: Games and Visualization
 
-4. Advanced JS: Natural Simulations
+4. ### Advanced JS: Natural Simulations
 
-5. AP Computer Science - Programming:
+5. ### AP Computer Science - Programming:
 
-6. AP Computer Science - Digital Information & Algorithms:
+6. ### AP Computer Science - Digital Information & Algorithms:
 
-7. AP Computer Science - Computer Innovation & The Internet :
+7. ### AP Computer Science - Computer Innovation & The Internet :
 
-8. AP Computer Science - Data Analysis & Simulations & Online Data Security:
+8. ### AP Computer Science - Data Analysis & Simulations & Online Data Security:
 
-9. FreeCodeCamp.org - ES6 JS:
+9. ### FreeCodeCamp.org - ES6 JS:
 
 A course about the transition from ES5 to ES6 and the varius appplications of ES6 into coding. 
 Demonstrates how ES6 is used to create more efficiant code writing and more compact code writing.
@@ -34,4 +34,4 @@ originally writen by Dan Shiffman.
 
 Visit: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming  to view these modules 
 
-10. Coding Challenge Live Presentation:
+10. ### Coding Challenge Live Presentation:
