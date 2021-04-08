@@ -6,8 +6,7 @@ Here is a list of my top modules and descriptions
  
  In this module I learned how I can personalize my work and produce it in a way that has high functionality and also is enjoyable to look at for the viewer. I learned how to input links and create image size to make a website appealing to the viewers. Also the importance of headers and lists to organize web pages. Finally, I learned how id's and classes can be used to create more organized code and make it easier to repeat the same CSS styles.
  
-![image](https://user-images.githubusercontent.com/36045753/114066200-76f9c300-9869-11eb-8728-9e99ef14cb49.png)
-![image](https://user-images.githubusercontent.com/36045753/114066412-b88a6e00-9869-11eb-8eae-e36ceb23d674.png)
+![image](https://user-images.githubusercontent.com/36045753/114078901-86800880-9877-11eb-8884-90a889a7c87e.png)
 
 Visit _[HTML and CSS on Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)_  to view this module.
 
