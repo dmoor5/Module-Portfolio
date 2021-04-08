@@ -31,7 +31,7 @@ originally writen by Dan Shiffman.
 ![image](https://user-images.githubusercontent.com/36045753/114060179-1c5d6880-9863-11eb-815d-4dcc50bfefe3.png)
 ![image](https://user-images.githubusercontent.com/36045753/114060250-31d29280-9863-11eb-9ec3-81180a1d91b7.png)
 
-Visit: _[FreeCodeCamp JS](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)_  to view these modules 
+Visit _[FreeCodeCamp JS](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)_  to view this module. 
 
 10. ### Coding Challenge Live Presentation:
 
@@ -44,4 +44,5 @@ Visit: _[FreeCodeCamp JS](https://www.freecodecamp.org/learn/javascript-algorith
 ![image](https://user-images.githubusercontent.com/36045753/114063490-a6f39700-9866-11eb-9a2e-1f5b7eb94747.png)
 ![image](https://user-images.githubusercontent.com/36045753/114063522-b4a91c80-9866-11eb-936b-66259a91a22b.png)
 
-   
+Visit _[p5.js](https://editor.p5js.org/dmoor5/full/sRP1lhlTR)_  to view our game.
+Visit our Github _[repository](https://github.com/saugatttt/Snake-Game/tree/dylan)_ to view our code and different refactorings. 
