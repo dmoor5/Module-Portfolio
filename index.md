@@ -41,19 +41,47 @@ Visit _[Games and Visulizations on Khan Academy](https://www.khanacademy.org/com
 Visit _[Natural Simulations on Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)_  to view this module.
 
  ### AP Computer Science - Programming:
+ 
+ Programing is the longest section of the AP CS module. In this section all concepts of programing are covered with a lot of emphisis on pseudocode used to describe and identify the different componenets of a section of code. There are many of these componenets to identify, including but not limited to conditionals, procedures and repitition. 
+ 
+ In my experiance with this module, the most important skill I learned had to be who to properly read and understand procedures through pseudocode. Peudocode can be used for any programing language and any programer can read it so I believe it is extremely important to understand and can help tremendously for communication between coders.
+
+![image](https://user-images.githubusercontent.com/36045753/114106305-79294500-989c-11eb-9274-50d02546673d.png)
 
 Visit _[AP Computer Science on Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles)_  to view this module.
 
  ### AP Computer Science - Digital Information & Algorithms:
  
+ In Digital Information, a lot of information is given on bianary numbers and how bits and bytes work. It also explains different methods of data compression. As for Algorithms, the course demonstrates both how to evaluate and build algorithms and also the usefulness of parallel and distrobuted computing. 
+ 
+ In these two sections, I learned a lot about bianary code and the ins and outs of wires and circiuts, why bits are important and what they do. I also learned the importance of parallel and distributed computing and their differences, parallel using multiple cores on a cpu and distributed using multiple computers. 
+ 
+![image](https://user-images.githubusercontent.com/36045753/114107913-ec808600-989f-11eb-82d0-30b26c09d6d9.png)
+![image](https://user-images.githubusercontent.com/36045753/114107941-f73b1b00-989f-11eb-9143-ac3b64c8017f.png)
+
  Visit _[AP Computer Science on Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles)_  to view this module.
 
  ### AP Computer Science - Computer Innovation & The Internet :
  
+ Computer Innovation and the Internet talk about varius systems online and how they can be used and improved.
+ 
+ Scalable systems were one very important aspect of the unit. It relates to the innovation of the internet and how we need to prepare for the future if we want out systems to keep functioning because of the massive and constant improvement of technology. 
+ 
+![image](https://user-images.githubusercontent.com/36045753/114108191-995b0300-98a0-11eb-9291-ecce23334869.png)
+![image](https://user-images.githubusercontent.com/36045753/114108213-a2e46b00-98a0-11eb-86c2-c52cdff407a1.png)
+
  Visit _[AP Computer Science on Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles)_  to view this module.
 
  ### AP Computer Science - Data Analysis & Simulations & Online Data Security:
  
+ These three combined into a module teach the basics of security online the applications of data and how simulations work.
+ 
+ The most important part of this module has to be data security and how to better protect yourself from threats through technology. The ways we are suseptible to varius attacks or our identity being comprimised is incredible and it is extremely importent to understand the use of cookies, VPNs and other concepts that effect our suseptibility.
+ 
+![image](https://user-images.githubusercontent.com/36045753/114109486-5ea69a00-98a3-11eb-983d-4286747e9e54.png)
+![image](https://user-images.githubusercontent.com/36045753/114109512-6bc38900-98a3-11eb-938e-9dac7b36ff6c.png)
+![image](https://user-images.githubusercontent.com/36045753/114109556-7ed65900-98a3-11eb-88fe-f4f1aabd15e7.png)
+
  Visit _[AP Computer Science on Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles)_  to view this module.
 
  ### FreeCodeCamp.org - ES6 JS:
