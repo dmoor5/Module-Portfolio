@@ -81,8 +81,7 @@ Visit _[FreeCodeCamp JS](https://www.freecodecamp.org/learn/javascript-algorithm
   
    For our coding challenge (Saugat and I) we recreated Dan Shiffman's Snake Game Redux. Some of the changes I made were adding more classes using ES6 to make the code more organized as well as adding a new mechanic to the game in the form of poisonous food that would end the game if consumed by the snake. We also created a presentation that successfully engaged our audience with the code and taught them about the various math and computer science consepts used in this coding challenge. 
   
-![image](https://user-images.githubusercontent.com/36045753/114063490-a6f39700-9866-11eb-9a2e-1f5b7eb94747.png)
-![image](https://user-images.githubusercontent.com/36045753/114063522-b4a91c80-9866-11eb-936b-66259a91a22b.png)
+![image](https://user-images.githubusercontent.com/36045753/114079038-aca5a880-9877-11eb-8067-71c1886b2cf5.png)
 
 Visit _[p5.js](https://editor.p5js.org/dmoor5/full/sRP1lhlTR)_  to view our game.
 
