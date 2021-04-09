@@ -1,6 +1,6 @@
 Here is a list of my top modules and descriptions
 
- ### HTML and CSS:
+ ###HTML and CSS:
  
  A module focused on the basics of HTML and CSS in web page development. The course teaches how to setup the content (HTML) and the style/looks of a website (CSS).
  
@@ -10,7 +10,7 @@ Here is a list of my top modules and descriptions
 
 Visit _[HTML and CSS on Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)_  to view this module.
 
-  ### Intro to JS:
+  ###Intro to JS:
  
  Intro to JS teaches the basics to getting into writing Java Script code. The module teaches important parts of JS that can be combined with HTML and CSS to make great things. This includes shape drawing color, functions and most importantly - Object Oriented Programing. 
  
@@ -20,7 +20,7 @@ Visit _[HTML and CSS on Khan Academy](https://www.khanacademy.org/computing/comp
 
 Visit _[Intro to JS on Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)_  to view this module.
 
- ### Advanced JS: Games and Visualization:
+ ###Advanced JS: Games and Visualization:
  
 This module on Advanced Games and Visuizations teaches about interactivity using JS and object oriented programing. The course shows how to use game slides, buttons, mouse clicked and more to create a game that is playable through JS.
 
@@ -30,7 +30,7 @@ What I learned from this was how to code well through functions and objects. Tho
 
 Visit _[Games and Visulizations on Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)_  to view this module.
 
- ### Advanced JS: Natural Simulations:
+ ###Advanced JS: Natural Simulations:
  
  Natural Simulations continues to expand on what was learned previously. This module goes over noise, random generation, vectors and more. These are all very important when making some simulations like the ones from Dan Shiffman's coding challenges. 
  
@@ -40,7 +40,7 @@ Visit _[Games and Visulizations on Khan Academy](https://www.khanacademy.org/com
 
 Visit _[Natural Simulations on Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)_  to view this module.
 
- ### AP Computer Science - Programming:
+ ###AP Computer Science - Programming:
  
  Programing is the longest section of the AP CS module. In this section all concepts of programing are covered with a lot of emphisis on pseudocode used to describe and identify the different componenets of a section of code. There are many of these componenets to identify, including but not limited to conditionals, procedures and repitition. 
  
@@ -50,7 +50,7 @@ Visit _[Natural Simulations on Khan Academy](https://www.khanacademy.org/computi
 
 Visit _[AP Computer Science on Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles)_  to view this module.
 
- ### AP Computer Science - Digital Information & Algorithms:
+ ###AP Computer Science - Digital Information & Algorithms:
  
  In Digital Information, a lot of information is given on bianary numbers and how bits and bytes work. It also explains different methods of data compression. As for Algorithms, the course demonstrates both how to evaluate and build algorithms and also the usefulness of parallel and distrobuted computing. 
  
@@ -61,7 +61,7 @@ Visit _[AP Computer Science on Khan Academy](https://www.khanacademy.org/computi
 
  Visit _[AP Computer Science on Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles)_  to view this module.
 
- ### AP Computer Science - Computer Innovation & The Internet :
+ ###AP Computer Science - Computer Innovation & The Internet :
  
  Computer Innovation and the Internet talk about varius systems online and how they can be used and improved.
  
@@ -72,7 +72,7 @@ Visit _[AP Computer Science on Khan Academy](https://www.khanacademy.org/computi
 
  Visit _[AP Computer Science on Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles)_  to view this module.
 
- ### AP Computer Science - Data Analysis & Simulations & Online Data Security:
+ ###AP Computer Science - Data Analysis & Simulations & Online Data Security:
  
  These three combined into a module teach the basics of security online the applications of data and how simulations work.
  
@@ -84,7 +84,7 @@ Visit _[AP Computer Science on Khan Academy](https://www.khanacademy.org/computi
 
  Visit _[AP Computer Science on Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles)_  to view this module.
 
- ### FreeCodeCamp.org - ES6 JS:
+ ###FreeCodeCamp.org - ES6 JS:
 
   A course about the transition from ES5 to ES6 and the varius appplications of ES6 into coding. 
 Demonstrates how ES6 is used to create more efficiant code writing and more compact code writing.
@@ -101,7 +101,7 @@ originally writen by Dan Shiffman.
 
 Visit _[FreeCodeCamp JS](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)_  to view this module. 
 
- ### Coding Challenge Live Presentation:
+ ###Coding Challenge Live Presentation:
 
     In the coding challenge presentations, we were tasked with reacreating a coding session hosted by none other than Dan Shiffman.
   We were to take the code and make our own creative refactoring and present our work in an engaging but also
