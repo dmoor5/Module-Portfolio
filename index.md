@@ -10,7 +10,7 @@ Here is a list of my top modules and descriptions
 
 Visit _[HTML and CSS on Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)_  to view this module.
 
- ### Intro to JS:
+  ### Intro to JS:
  
  Intro to JS teaches the basics to getting into writing Java Script code. The module teaches important parts of JS that can be combined with HTML and CSS to make great things. This includes shape drawing color, functions and most importantly - Object Oriented Programing. 
  
